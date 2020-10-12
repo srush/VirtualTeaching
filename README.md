@@ -1,6 +1,8 @@
-# Virtual Teaching Setup
+# DIY Virtual Teaching
 
-This page documents my setup for virtual teaching in Fall 2020. I teach Machine Learning Engineering at Cornell Tech with about 110 registered students. The course is taught in 3 1-hour sessions: 2 morning / 1 late evening (for international student equity). 
+This page documents my setup for virtual teaching in Fall 2020. This setup was designed to be pretty minimalistic and to the point. 
+
+I use this to teach "Machine Learning Engineering" at Cornell Tech with about 110 registered students. The course is taught in 3 1-hour sessions: 2 morning / 1 late evening for international student equity.
 
 <img src="Screen.png" width=400px>
 
@@ -10,6 +12,8 @@ This page documents my setup for virtual teaching in Fall 2020. I teach Machine 
 * I wanted to teach in an interactive mode. Many of my colleagues swear by the flipped classroom setting.
 
 * My 1-bedroom apartment is ~700 sq feet. My partner uses the main room, so I am in the bedroom. I roughly have a 4 foot x 5 foot space. 
+
+<img src="desktop.jpg" width=400px>
 
 * Needed to use my linux desktop (https://system76.com/) for streaming.
 
