@@ -1,6 +1,6 @@
 # Virtual Teaching Setup
 
-This page documents my setup for virtual teaching in Fall 2020. I teach Machine Learning Engineering at Cornell Tech with about 110 registered students. The course is taught in 3 1-hour sessions at 11 am Tues/Thurs and 9pm on Thurs (for international student equity). 
+This page documents my setup for virtual teaching in Fall 2020. I teach Machine Learning Engineering at Cornell Tech with about 110 registered students. The course is taught in 3 1-hour sessions: 2 morning / 1 late evening (for international student equity). 
 
 <img src="Screen.png" width=400px>
 
@@ -59,3 +59,9 @@ The OBS tools are super easy to use. I was able to create some windows that let 
 ## Slides
 
 I decided to try out less technical slides this semester to avoid any resolution issues with streaming. My slides are written using <a href="https://revealjs.com/">revealjs</a> through the <a href="https://pypi.org/project/sphinx-revealjs/">sphinx</a> plugin. There is an example in the slides directory. 
+
+> cd slides; pip install -r requirements.txt
+
+> sphinx-autobuild -b revealjs source/ build
+
+This will launch the slides at http://localhost:8000/example.html#/
