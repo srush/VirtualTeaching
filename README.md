@@ -2,7 +2,7 @@
 
 This page documents my setup for virtual teaching in Fall 2020. I teach Machine Learning Engineering at Cornell Tech with about 110 registered students. The course is taught in 3 1-hour sessions at 11 am Tues/Thurs and 9pm on Thurs (for international student equity). 
 
-
+<img src="Screen.png">
 
 
 ## Constraints
@@ -36,5 +36,5 @@ At Cornell Tech we use Zoom for teaching (and everything else). So I needed to s
 
 On my side I use <a href="https://obsproject.com/">OBS</a> to stream my class. It seems to be standard and it is FOSS so that's great. 
 
-
+<img src="obs.png">
 
