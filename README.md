@@ -77,7 +77,7 @@ The OBS tools are super easy to use. I was able to create some windows that let 
 
 I decided to try out less technical slides this semester to avoid any resolution issues with streaming. My slides are written using <a href="https://revealjs.com/">revealjs</a> through the <a href="https://pypi.org/project/sphinx-revealjs/">sphinx</a> plugin. There is an example in the slides directory. 
 
-<img src="slide.png">
+<img src="slide.png" width=300px>
 
 
 ```bash
