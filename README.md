@@ -15,6 +15,8 @@ I use this to teach "Machine Learning Engineering" at Cornell Tech with about 11
 
 <img src="desktop.jpg" width=400px>
 
+
+
 * Needed to use my linux desktop (https://system76.com/) for streaming.
 
 ## Equipment
@@ -26,6 +28,9 @@ I spent roughly $500 on additional equipment for teaching.
 *  <a href="https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1/ref=asc_df_B085TFF7M1/?tag=hyprod-20&linkCode=df0&hvadid=459641872450&hvpos=&hvnetw=g&hvrand=9866461222765604603&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004331&hvtargid=pla-943627420681&psc=1">Logitech 1080p Webcam </a>
 
 *  <a href="https://www.amazon.com/Neewer-Collapsible-Reversible-Chromakey-Background/dp/B00E89Q5OY/ref=sr_1_4?crid=3M4SA7NOXXFO0&dchild=1&keywords=green+screen&qid=1602514709&s=electronics&sprefix=green%2Celectronics%2C144&sr=1-4">ChromaKey Green Screen</a>
+
+<img src="green.jpg" width=400px>
+
 
 * <a href="https://www.amazon.com/Workbench-Reading-Streaming-Architect-Drafting/dp/B07P1G8CD4/ref=sr_1_20?dchild=1&keywords=usb+ring+light&qid=1602514764&sr=8-20"> Workbench Ring Light</a>
 
