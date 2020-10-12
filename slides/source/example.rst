@@ -1,4 +1,6 @@
-.. raw:: html                                                                                               <link rel="stylesheet" href="_static/revealjs/css/theme/white.css">
+.. raw:: html                                      
+
+   <link rel="stylesheet" href="_static/revealjs/css/theme/white.css">
 
 
 Class Title
@@ -40,5 +42,5 @@ Some math
 
 .. math::
 
-   \sum_{i=1}^10 i * 5
+   \sum_{i=1}^{10} i * 5
   
