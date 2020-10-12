@@ -29,7 +29,9 @@ I spent roughly $500 on additional equipment for teaching.
 
 *  <a href="https://www.amazon.com/Neewer-Collapsible-Reversible-Chromakey-Background/dp/B00E89Q5OY/ref=sr_1_4?crid=3M4SA7NOXXFO0&dchild=1&keywords=green+screen&qid=1602514709&s=electronics&sprefix=green%2Celectronics%2C144&sr=1-4">ChromaKey Green Screen</a>
 
-<img src="green.jpg" width=400px>
+(Green screen looks goofy in person, but works great in practice :) )
+
+<img src="green.jpg" width=200px>
 
 
 * <a href="https://www.amazon.com/Workbench-Reading-Streaming-Architect-Drafting/dp/B07P1G8CD4/ref=sr_1_20?dchild=1&keywords=usb+ring+light&qid=1602514764&sr=8-20"> Workbench Ring Light</a>
