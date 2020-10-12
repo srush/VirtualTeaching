@@ -44,6 +44,8 @@ On my side I use <a href="https://obsproject.com/">OBS</a> to stream my class. I
 
 The OBS tools are super easy to use. I was able to create some windows that let me show my terminal (Konsole), webcam, and browser windows (Firefox). I have a couple of different Scene templates that I switch through during class. 
 
+<img src="scene.png" width=400px>
+
 ### OBS Setup / Issues
 
 * In order to use OBS with zoom, I followed the setup instructions here: https://www.eigenmagic.com/2020/04/22/how-to-use-obs-studio-with-zoom/ 
