@@ -26,13 +26,13 @@ I spent roughly $500 on additional equipment for teaching. I am relatively happy
 
 *  <a href="https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1/ref=asc_df_B085TFF7M1/?tag=hyprod-20&linkCode=df0&hvadid=459641872450&hvpos=&hvnetw=g&hvrand=9866461222765604603&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004331&hvtargid=pla-943627420681&psc=1">Logitech 1080p Webcam </a>
 
-*  <a href="https://www.amazon.com/Neewer-Collapsible-Reversible-Chromakey-Background/dp/B00E89Q5OY/ref=sr_1_4?crid=3M4SA7NOXXFO0&dchild=1&keywords=green+screen&qid=1602514709&s=electronics&sprefix=green%2Celectronics%2C144&sr=1-4">ChromaKey Green Screen</a>
+*  <a href="https://www.amazon.com/Neewer-Collapsible-Reversible-Chromakey-Background/dp/B00E89Q5OY/ref=sr_1_4?crid=3M4SA7NOXXFO0&dchild=1&keywords=green+screen&qid=1602514709&s=electronics&sprefix=green%2Celectronics%2C144&sr=1-4">ChromaKey Green Screen</a> (super worth it, highly recommend)
 
-* <a href="https://www.amazon.com/Workbench-Reading-Streaming-Architect-Drafting/dp/B07P1G8CD4/ref=sr_1_20?dchild=1&keywords=usb+ring+light&qid=1602514764&sr=8-20"> Workbench Ring Light</a>
+* <a href="https://www.amazon.com/Workbench-Reading-Streaming-Architect-Drafting/dp/B07P1G8CD4/ref=sr_1_20?dchild=1&keywords=usb+ring+light&qid=1602514764&sr=8-20"> Workbench Ring Light</a> (particularly useful for night class)
 
-*  <a href="https://www.amazon.com/Dell-Screen-LED-Lit-Monitor-P2419H/dp/B07F8XZN69/ref=sr_1_6?crid=1KXV0WO6KP1FR&dchild=1&keywords=dell+monitor&qid=1602514839&sprefix=dell+%2Caps%2C150&sr=8-6">Second monitor</a>
+*  <a href="https://www.amazon.com/Dell-Screen-LED-Lit-Monitor-P2419H/dp/B07F8XZN69/ref=sr_1_6?crid=1KXV0WO6KP1FR&dchild=1&keywords=dell+monitor&qid=1602514839&sprefix=dell+%2Caps%2C150&sr=8-6">Second monitor</a> (makes it easy to switch streaming scenes)
 
-*  <a href="https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E/ref=sr_1_2?crid=398Q1YQ4STQ8Y&dchild=1&keywords=sony+studio+monitor+headphones&qid=1602514906&sprefix=sony+studio+monit%2Caps%2C146&sr=8-2">Sony Studio Headphones</a>
+*  <a href="https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E/ref=sr_1_2?crid=398Q1YQ4STQ8Y&dchild=1&keywords=sony+studio+monitor+headphones&qid=1602514906&sprefix=sony+studio+monit%2Caps%2C146&sr=8-2">Sony Studio Headphones</a> 
 
 
 ## Streaming
