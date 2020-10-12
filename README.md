@@ -2,6 +2,9 @@
 
 This page documents my setup for virtual teaching in Fall 2020. I teach Machine Learning Engineering at Cornell Tech with about 110 registered students. The course is taught in 3 1-hour sessions at 11 am Tues/Thurs and 9pm on Thurs (for international student equity). 
 
+
+
+
 ## Constraints
 
 * I wanted to teach in an interactive mode. Many of my colleagues swear by the flipped classroom setting.
@@ -14,7 +17,7 @@ This page documents my setup for virtual teaching in Fall 2020. I teach Machine 
 
 I spent roughly $500 on additional equipment for teaching. 
 
-*  - <a href="https://www.amazon.com/Blue-Snowball-Condenser-Microphone-Cardioid/dp/B006DIA77E/ref=sr_1_5?crid=275YURS34P97Z&dchild=1&keywords=blue+snowball+mic&qid=1602514615&sprefix=blue+sno%2Caps%2C137&sr=8-5">Snowball Microphone</a>
+*  <a href="https://www.amazon.com/Blue-Snowball-Condenser-Microphone-Cardioid/dp/B006DIA77E/ref=sr_1_5?crid=275YURS34P97Z&dchild=1&keywords=blue+snowball+mic&qid=1602514615&sprefix=blue+sno%2Caps%2C137&sr=8-5">Snowball Microphone</a>
 
 *  <a href="https://www.amazon.com/Logitech-C920x-Pro-HD-Webcam/dp/B085TFF7M1/ref=asc_df_B085TFF7M1/?tag=hyprod-20&linkCode=df0&hvadid=459641872450&hvpos=&hvnetw=g&hvrand=9866461222765604603&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004331&hvtargid=pla-943627420681&psc=1">Logitech 1080p Webcam </a>
 
