@@ -57,10 +57,16 @@ The OBS tools are super easy to use. I was able to create some windows that let 
 ## Software
 
 * OBS / Zoom for streaming
-* Slido - used to answer questions and comments during class
+
+* <a href="https://slido.com/">Slido</a> - used to answer questions and comments during class
+
 * Canvas Quizzes - used to give in class quizzes (mostly for attendance sake)
+
+* <a href="https://classroom.github.com/classrooms">GitHub Classroom</a> - for grading and distribution
+
 * IPython / Notebooks - useful for in-class code demonstrations and question answering
-* Witeboard (https://witeboard.com/) - used if I need to draw diagrams on my ipad for technical explanations
+
+* <a href="https://witeboard.com">Witeboard</a> - used if I need to draw diagrams on my ipad for technical explanations
 
 ## Slides
 
